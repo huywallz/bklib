@@ -1,10 +1,6 @@
 #include "bk_math.h"
 #include "bk_vec3.h"
 
-bk_vec3 bk_vec3_new(float x, float y, float z) {
-    return (bk_vec3){x, y, z};
-}
-
 bk_vec3 bk_vec3_add(bk_vec3 a, bk_vec3 b) {
     return (bk_vec3){a.x + b.x, a.y + b.y, a.z + b.z};
 }
