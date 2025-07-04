@@ -1,5 +1,5 @@
 # bklib
-Lightweight C library for 3D graphics and engine utilities used by the Brickate project
+Lightweight C library for 3D graphics and engine utilities used by the Brickate project.
 
 ## TODO
 ### ✅ Completed
